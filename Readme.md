@@ -1,4 +1,4 @@
-![logo](https://github.com/chammakh-yassine/chammakh-yassine/blob/main/AdobeStock_313597954-scaled.jpeg)
+![logo](https://github.com/chammakh-yassine/chammakh-yassine/blob/main/Screenshot%202024-07-25%20044920.png)
 <h1 align="center">Hi 👋, I'm yassine chammakh</h1>
 <h3 align="center">A passionate student have a big interest in IT field</h3>
 
