@@ -1,3 +1,4 @@
+![logo](https://github.com/chammakh-yassine/chammakh-yassine/blob/main/AdobeStock_313597954-scaled.jpeg)
 <h1 align="center">Hi 👋, I'm yassine chammakh</h1>
 <h3 align="center">A passionate student have a big interest in IT field</h3>
 
