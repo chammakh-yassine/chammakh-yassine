@@ -14,9 +14,9 @@
 
 - 🤝 I’m interested **IT, software developer, games developer**
 
-- 👨‍💻 My principle Portfolio [yassine chammakh.com](https://chammakh-yassine.github.io/yassine.chammakh/?comment=ajdkdjkajdkadjjakda#blog)
+- 👨‍💻 My principle Portfolio -----> [take a look](https://chammakh-yassine.github.io/yassine.chammakh/?comment=ajdkdjkajdkadjjakda#blog)
 
-- 🌱 My 3D portfolio [yassine chammakh.com](https://chammakh-yassine.github.io/yassine.chammakh/?comment=ajdkdjkajdkadjjakda#blog)
+- 🌱 My 3D portfolio: [click me to see some](https://chammakh-yassine.github.io/yassine.chammakh/?comment=ajdkdjkajdkadjjakda#blog)
 
 - 💬 i am good at **programing, math , 3D modeling, physics**
 
