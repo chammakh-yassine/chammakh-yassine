@@ -8,17 +8,22 @@
 
 - 🔭 I’m currently **an international student**
 
-- 🌱 I’m currently learning **3D design at the moment, get deeper in programing languages and oop, learn german** **(B2 currently)**
+- 🌱 I’m currently learning **more about Java, get deeper in programing languages and oop, learn german** **(B2 currently)**
 
 - 👯 I’m looking for **a chance in Germany**
 
 - 🤝 I’m interested **IT, software developer, games developer**
 
-- 👨‍💻 All of my projects are available at [https://itdexter0.github.io/yassine3D.github.io/index.html](https://itdexter0.github.io/yassine3D.github.io/index.html)
+- 👨‍💻 My principle Portfolio [yassine chammakh.com](https://chammakh-yassine.github.io/yassine.chammakh/?comment=ajdkdjkajdkadjjakda#blog)
+
+- 🌱 My 3D portfolio [yassine chammakh.com](https://chammakh-yassine.github.io/yassine.chammakh/?comment=ajdkdjkajdkadjjakda#blog)
 
 - 💬 i am good at **programing, math , 3D modeling, physics**
 
 - 📫 How to reach me **yassine.chammakh0@gmail.com**
+
+- 👯 I love **Origami, pixelart, making videos, video games and football, nature**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
