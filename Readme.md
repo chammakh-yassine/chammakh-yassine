@@ -16,7 +16,7 @@
 
 - 👨‍💻 My principle Portfolio -----> [take a look](https://chammakh-yassine.github.io/yassine.chammakh/?comment=ajdkdjkajdkadjjakda#blog)
 
-- 🌱 My 3D portfolio: [click me to see some](https://chammakh-yassine.github.io/yassine.chammakh/?comment=ajdkdjkajdkadjjakda#blog)
+- 🌱 My 3D portfolio: [click me to see]([https://chammakh-yassine.github.io/yassine.chammakh/?comment=ajdkdjkajdkadjjakda#blog](https://itdexter0.github.io/yassine3D.github.io/index.html))
 
 - 💬 i am good at **programing, math , 3D modeling, physics**
 
