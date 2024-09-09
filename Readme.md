@@ -1,6 +1,6 @@
 ![logo](https://github.com/chammakh-yassine/chammakh-yassine/blob/main/Screenshot%202024-07-25%20044920.png)
 <h1 align="center">Hi 👋, I'm yassine chammakh</h1>
-<h3 align="center">A passionate student have a big interest in IT field</h3>
+<h3 align="center">A passionate student</h3>
 
 <img align ="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs">
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking for **a chance in Germany**
 
-- 🤝 I’m interested **IT, software developer, games developer**
+- 🤝 I’m interested **IT in general, i love work on big thing love mathematics and physics and engeneering**
 
 - 👨‍💻 My principle Portfolio -----> [take a look](https://chammakh-yassine.github.io/yassine.chammakh/)
 
